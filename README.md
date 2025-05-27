@@ -4,17 +4,22 @@ This project is an AI-powered code review tool built with React.js, Vite, Node.j
 
 
 
+
+
 Features
 
-Instant Code Analysis: Get AI-powered feedback on your code in real-time
 
-Multi-language Support: Works with various programming languages
+1) Instant Code Analysis: Get AI-powered feedback on your code in real-time
 
-Educational Suggestions: Learn best practices and improve your coding skills
+2) Multi-language Support: Works with various programming languages
 
-Lightweight Interface: Fast and responsive UI built with Vite and React
+3) Educational Suggestions: Learn best practices and improve your coding skills
 
-Secure Backend: Node.js/Express.js server handling API requests
+4) Lightweight Interface: Fast and responsive UI built with Vite and React
+
+5) Secure Backend: Node.js/Express.js server handling API requests
+
+
 
 
 ## Technologies Used
@@ -31,6 +36,9 @@ Package Manager: npm
 
 
 
+
+
+
 ## Installation
 
 Node.js (v16 or higher)
@@ -40,6 +48,8 @@ npm (v8 or higher) or yarn
 Google Cloud API key with Gemini access
 
 
+
+
 Acknowledgment
 
 Google Gemini team for the powerful LLM
@@ -47,6 +57,7 @@ Google Gemini team for the powerful LLM
 Vite and React teams for the excellent frontend tools
 
 Node.js and Express.js communities
+
 
 
 
